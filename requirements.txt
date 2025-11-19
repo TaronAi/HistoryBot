@@ -1,1 +1,1 @@
-python-texlegram-bot~=21.0
+python-telegram-bot~=21.0
